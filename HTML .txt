@@ -1,0 +1,10 @@
+<div class="menu">
+      <h1>Our Menu</h1>
+      <section class="menu-item">
+        <h2>Appetizers</h2>
+        <div class="item">
+          <h3>Bruschetta</h3>
+          <p>Toasted bread with tomatoes, basil, garlic and herbs.</p>
+        </div>
+      </section>
+    </div>
